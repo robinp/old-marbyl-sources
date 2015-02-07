@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="iso-8859-2" ?>
+<resources>
+   <clip id="_my_mochi" import="mochiads.swf" />
+   <clip id="_my_fett" import="fettscores.swf" />
+   
+   <bitmap id="Bead" import="image/bead.png" />
+   
+   <bitmap id="Diam1" import="image/diam1.png" />
+   <bitmap id="Diam4" import="image/diam4.png" />
+   <bitmap id="Diam5" import="image/diam5.png" />
+   <bitmap id="Diam6" import="image/diam6.png" />
+   <bitmap id="Diam7" import="image/diam7.png" />
+   
+   <bitmap id="BGImg" import="image/sm_tree.jpg" />
+   <bitmap id="MLabs" import="image/mlabs_icon_big.png" />
+   <bitmap id="MenuImg" import="image/menu_img.jpg" />
+   
+   <bitmap id="InstrImg" import="image/instructions.png" />
+
+   <sound id="PopSfx" import="sound/effects/ticking.mp3" />
+   <sound id="GongSfx" import="sound/effects/gong.mp3" />
+   
+   <sound id="DestroySfx" import="sound/effects/destroy.mp3" />
+   <sound id="PickupSfx" import="sound/effects/pickup.mp3" />
+   <sound id="FlushSfx" import="sound/effects/ding.mp3" />
+   
+   <sound id="BGM" import="sound/music/baby-thing.mp3" />
+
+   <font id="game_font" name="GameFont" import="font/fnt.ttf"/>
+</resources>

@@ -1,0 +1,13 @@
+-swf marbyl.swf
+-swf-header 550:550:60:000000
+-swf-version 9
+-swf-lib ../res/res.swf
+-resource ../res/levels.xml@level_cfg
+-resource ../res/sprites.xml@sprites
+#-debug
+#
+--no-traces
+--flash-strict
+-D network-sandbox
+-main Main
+

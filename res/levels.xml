@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<game game_time="190">
+   <levels>
+      <level time="5">
+         <diams diam_score="1" shape="4" colors="2" avg_speed="105.0" diff_speed="25.0" avg_gentime="60" diff_gentime="30" avg_size="0.75" diff_size="0.25" />
+         <cursor max_size="2.0" grow_size="0.1" />
+      </level>
+    
+      <level time="5">
+         <diams colors="2" shape="5" />
+      </level>
+  
+      <level time="5"><diams avg_speed="125" avg_gentime="40" /></level>
+     
+      <level time="5">
+         <diams colors="3" shape="5" />
+      </level>
+      
+      <level time="10">
+         <diams colors="3" shape="6" />
+      </level>
+ 
+      <level time="15">
+         <diams colors="4" shape="6" />
+      </level>
+ 
+      <level time="15">
+         <diams colors="5" shape="6" />
+      </level>
+ 
+      <level time="20">
+         <diams colors="6" shape="6" />
+      </level>
+ 
+      <level time="35">
+         <diams colors="6" shape="7" />
+      </level>
+ 
+      <level time="1"><diams colors="6" shape="6" /></level>
+      <level time="1"><diams colors="6" shape="5" /></level>
+      <level time="1"><diams colors="6" shape="5" /></level>
+
+      <level time="7"><diams shape="5" colors="2" avg_speed="145" /></level>
+      
+      <level time="7"><diams shape="6" colors="2" /></level>
+      
+      <level time="7"><diams shape="6" colors="3" /></level>
+
+      <level time="7"><diams shape="6" colors="4" /></level>
+      
+      <level time="7"><diams shape="6" colors="4" /></level>
+      
+      <level time="7"><diams shape="7" colors="4" /></level>
+      
+      <level time="7"><diams shape="7" colors="5" /></level>
+      
+      <level time="7"><diams shape="7" colors="6" /></level>
+
+      <level time="10"><diams avg_speed="155" /></level>
+
+      <level><diams avg_speed="165" /></level>
+      <level><diams avg_speed="175" /></level>
+      <level><diams avg_speed="185" /></level>
+          
+   </levels>
+</game>
